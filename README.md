@@ -1,0 +1,2 @@
+# WebFormGetOpenDataJSON
+從政府公開資料平台取得JSON天氣資料，轉為物件集合並透過LINQ查詢篩選
